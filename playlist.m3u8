@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="RTP 1" group-id="Tv" group-title="TV Channels",
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="RTP 2" group-id="Tv" group-title="TV Channels",
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="SIC" group-id="Tv" group-title="TV Channels",
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="TVI" group-id="Tv" group-title="TV Channels",
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDI0IDEwOjU6NTQgUE0maGFzaF92YWx1ZT12ZUZxTy9ld0NCdjdiNW5BVU1nZ2lRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YTVjNThjNjAtMWU0Mi00NzYxLTg0MTUtM2IyNjcxNzhlMjE4/
+
